@@ -1,0 +1,2 @@
+INFO     test_posts:test_posts.py:92 开始测试：更新帖子
+INFO     test_posts:test_posts.py:109 测试通过，帖子已更新

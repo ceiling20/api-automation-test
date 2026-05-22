@@ -1,0 +1,3 @@
+INFO     test_posts:test_posts.py:69 测试场景:标题为null,测试预测状态码:400
+INFO     test_posts:test_posts.py:70 开始测试：创造帖子
+INFO     test_posts:test_posts.py:84 测试通过，创建帖子 ID: 101
